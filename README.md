@@ -1,0 +1,2 @@
+sfdcjquery-MIT
+==============
